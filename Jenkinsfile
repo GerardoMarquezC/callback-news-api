@@ -15,6 +15,6 @@ pipeline {
 					ssh gerardo_marquez_carmona@api.callback-news.com -p 2222 'ls'
 				"""
             }
-        }
+        } 
     }
 }
